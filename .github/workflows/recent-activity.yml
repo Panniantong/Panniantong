@@ -5,6 +5,9 @@ on:
     - cron: "*/30 * * * *"  # 每 30 分钟更新
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
