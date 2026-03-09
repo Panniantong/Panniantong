@@ -66,7 +66,6 @@ neo = {
 |---------|-------|-------------|
 | [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | ⭐ 7,300+ | Give your AI agent eyes to see the entire internet |
 | [**xfetch**](https://github.com/Panniantong/xfetch) | ⭐ 8 | Fast X/Twitter CLI scraper. No API keys. |
-| [**awesome-claude-code**](https://github.com/Panniantong/awesome-claude-code) | ⭐ 4 | Curated list of skills, hooks & plugins for Claude Code |
 
 ---
 
