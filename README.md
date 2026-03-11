@@ -14,8 +14,6 @@
 ```python
 neo = {
     "name": "Neo Reid",
-    "repos": 29,
-    "stars": 7_300,
     "since": 2020,
     "motto": "Ship it. Open-source it. Move on.",
     "team": "Solo founder. All employees are AI.",
@@ -64,8 +62,8 @@ neo = {
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | ⭐ 7,300+ | Give your AI agent eyes to see the entire internet |
-| [**xfetch**](https://github.com/Panniantong/xfetch) | ⭐ 8 | Fast X/Twitter CLI scraper. No API keys. |
+| [**Agent-Reach**](https://github.com/Panniantong/Agent-Reach) | ![Stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat&color=f5c542&label=⭐) | Give your AI agent eyes to see the entire internet |
+| [**xfetch**](https://github.com/Panniantong/xfetch) | ![Stars](https://img.shields.io/github/stars/Panniantong/xfetch?style=flat&color=f5c542&label=⭐) | Fast X/Twitter CLI scraper. No API keys. |
 
 ---
 
