@@ -15,30 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)
 ```
 
     
