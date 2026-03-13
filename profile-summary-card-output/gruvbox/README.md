@@ -15,10 +15,30 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Panniantong/Panniantong/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
 ```
 
     
