@@ -70,11 +70,11 @@ neo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#209](https://github.com/Panniantong/Agent-Reach/pull/209) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-2. 💪 Opened PR [#209](https://github.com/Panniantong/Agent-Reach/pull/209) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-3. 🔒 Closed issue [#134](https://github.com/Panniantong/Agent-Reach/issues/134) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-4. 🔒 Closed issue [#154](https://github.com/Panniantong/Agent-Reach/issues/154) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-5. 🎉 Merged PR [#199](https://github.com/Panniantong/Agent-Reach/pull/199) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+1. ❌ Closed PR [#1](https://github.com/Panniantong/mcp-bosszp/pull/1) in [Panniantong/mcp-bosszp](https://github.com/Panniantong/mcp-bosszp)
+2. 🎉 Merged PR [#209](https://github.com/Panniantong/Agent-Reach/pull/209) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+3. 💪 Opened PR [#209](https://github.com/Panniantong/Agent-Reach/pull/209) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+4. 🔒 Closed issue [#134](https://github.com/Panniantong/Agent-Reach/issues/134) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+5. 🔒 Closed issue [#154](https://github.com/Panniantong/Agent-Reach/issues/154) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 <!--END_SECTION:activity-->
 
 ---
