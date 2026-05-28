@@ -70,9 +70,9 @@ neo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#299](https://github.com/Panniantong/Agent-Reach/pull/299) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-2. 🎉 Merged PR [#49980](https://github.com/openclaw/openclaw/pull/49980) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-3. 🗣 Commented on [#189](https://github.com/Panniantong/Agent-Reach/issues/189#issuecomment-4235431595) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+1. 💪 Opened PR [#1](https://github.com/Panniantong/kiro.rs/pull/1) in [Panniantong/kiro.rs](https://github.com/Panniantong/kiro.rs)
+2. 💪 Opened PR [#299](https://github.com/Panniantong/Agent-Reach/pull/299) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+3. 🎉 Merged PR [#49980](https://github.com/openclaw/openclaw/pull/49980) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 4. 🗣 Commented on [#242](https://github.com/Panniantong/Agent-Reach/issues/242#issuecomment-4235431158) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 5. 🔒 Closed issue [#246](https://github.com/Panniantong/Agent-Reach/issues/246) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 <!--END_SECTION:activity-->
