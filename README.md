@@ -70,11 +70,11 @@ neo = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0 — 能力层:多后端路由 + 真体检 + OpenCLI](https://github.com/Panniantong/Agent-Reach/releases/tag/v1.5.0) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-2. 🎉 Merged PR [#359](https://github.com/Panniantong/Agent-Reach/pull/359) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-3. 🎉 Merged PR [#358](https://github.com/Panniantong/Agent-Reach/pull/358) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-4. 🎉 Merged PR [#357](https://github.com/Panniantong/Agent-Reach/pull/357) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-5. 🎉 Merged PR [#355](https://github.com/Panniantong/Agent-Reach/pull/355) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+1. ❌ Closed PR [#1](https://github.com/Panniantong/kiro.rs/pull/1) in [Panniantong/kiro.rs](https://github.com/Panniantong/kiro.rs)
+2. 🚀 Published release [v1.5.0 — 能力层:多后端路由 + 真体检 + OpenCLI](https://github.com/Panniantong/Agent-Reach/releases/tag/v1.5.0) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+3. 🎉 Merged PR [#359](https://github.com/Panniantong/Agent-Reach/pull/359) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+4. 🎉 Merged PR [#358](https://github.com/Panniantong/Agent-Reach/pull/358) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+5. 🎉 Merged PR [#357](https://github.com/Panniantong/Agent-Reach/pull/357) in [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 <!--END_SECTION:activity-->
 
 ---
